@@ -27,6 +27,7 @@ The project is designed for enterprise environments that require secure, auditab
 - Works entirely within controlled infrastructure
 
 🏗️ Architecture Overview
+
 <img width="499" height="347" alt="Final Authica Architecture" src="https://github.com/user-attachments/assets/4e3ee02e-2db8-4121-b4da-08d179fdf416" />
 
 
