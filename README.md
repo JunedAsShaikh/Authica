@@ -32,11 +32,11 @@ The project is designed for enterprise environments that require secure, auditab
 
 
 🧰 Tech Stack
-Language: Python
-Automation: Red Hat Ansible
-ITSM: ServiceNow
-Directory Services: Microsoft Windows Active Directory Domain Services (AD DS)
-Platform: On-prem / Enterprise infrastructure
+- Language: Python
+- Integration and Automation: Red Hat Ansible
+- ITSM: ServiceNow
+- Directory Services: Microsoft Windows Active Directory Domain Services (AD DS)
+- Platform: On-prem / Enterprise infrastructure
 
 📂 Project Structure (Example)
 Authica/
