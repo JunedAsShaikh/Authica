@@ -1,4 +1,4 @@
-##Authica 🔐
+**Authica** 🔐
 
 Authica is an integrated access provisioning platform that connects a locally hosted Python-based chatbot with Red Hat Ansible, ServiceNow, and Microsoft Windows Active Directory Domain Services (AD DS) to automate and govern identity and access management workflows.
 
