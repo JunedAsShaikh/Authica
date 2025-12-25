@@ -84,7 +84,7 @@ python chatbot/main.py
 5) Approval processed in ServiceNow
 6) **Approval**
    - Notifications to the user and manager
-   - Ansible Playbooks triggered for creation of user in AD DS and added to the required Assignment Group
+   - Ansible playbooks triggered for creation and addition of user to the required Assignment Group in AD DS
    - Upon assignment closes ServiceNow request
           
    **Rejection**
